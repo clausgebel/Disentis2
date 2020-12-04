@@ -3,6 +3,7 @@ package de.gebelcl.disentis2;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.GridLayout;
+import android.util.Log;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
@@ -31,18 +32,17 @@ public class MainActivity extends AppCompatActivity {
 
             // if every tile is hidden, then show the text "Herzlichen Glückwunsch, Sie haben gewonnen!"
             boolean won = true;
+            int counter = 0;
             for (boolean[] is : square.getImageStates()) {
                 for (boolean is2 : is) {
-                    if (is2 == true) {
-                        won = false;
-                        break;
+                    if (is2 == false) {
+                        counter++;
+                        Log.i("ABC", String.valueOf(counter));
                     }
                 }
-                if (won == false)
-                    break;
             }
-
-            if (won == true) {
+            // if all tiles except a single one are invisible then the player has won
+            if (counter == 24) {
                 textView.setVisibility(View.VISIBLE);
                 textView.setText("Herzlichen Glückwunsch, Sie haben gewonnen!");
             }
