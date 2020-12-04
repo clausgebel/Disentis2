@@ -12,7 +12,12 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb298245-5c5a-4825-8059-1a8ae0fee683" name="Default Changelist" comment="" />
+    <list default="true" id="cb298245-5c5a-4825-8059-1a8ae0fee683" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/de/gebelcl/disentis2/ArraySquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/de/gebelcl/disentis2/ArraySquare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/de/gebelcl/disentis2/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/de/gebelcl/disentis2/MainActivity.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +44,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Disentis2" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1kpVxeyUM0PVEwuVqA1vCFj4N5c" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -53,6 +58,7 @@
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/drawable" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -133,10 +139,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="623" y="223" key="#com.intellij.ide.util.MemberChooser" timestamp="1606463554663">
+    <state x="623" y="223" key="#com.intellij.ide.util.MemberChooser" timestamp="1607072170536">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="623" y="223" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1010@0.0.1680.1010" timestamp="1606463554663" />
+    <state x="623" y="223" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1010@0.0.1680.1010" timestamp="1607072170536" />
     <state x="620" y="260" key="FileChooserDialogImpl" timestamp="1606397979473">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
@@ -157,6 +163,10 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state width="1637" height="228" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1607020216072" />
+    <state x="256" y="127" key="SettingsEditor" timestamp="1607071877135">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="256" y="127" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1607071877135" />
     <state x="656" y="283" key="chooseDestDirectoryDialog" timestamp="1606398129309">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
